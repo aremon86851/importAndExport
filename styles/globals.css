@@ -16,6 +16,10 @@
   }
 }
 
+* {
+  margin: 0;
+  padding: 0;
+}
 body {
   color: rgb(var(--foreground-rgb));
   background: linear-gradient(
@@ -24,4 +28,12 @@ body {
       rgb(var(--background-end-rgb))
     )
     rgb(var(--background-start-rgb));
+  font-family: "Roboto", sans-serif;
+}
+.hero-bg {
+  background-image: url(https://www.pcc.edu/professional/wp-content/uploads/sites/4/2019/05/Global-Trade-1000x350-1000x381.jpeg),
+    linear-gradient(86deg, rgb(0 0 0 / 88%), rgba(0, 0, 0, 0.5));
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-blend-mode: overlay;
 }
