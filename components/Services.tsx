@@ -3,7 +3,7 @@ import React from "react";
 const Services = () => {
   return (
     <div className="max-w-xxl mx-auto lg:px-32 md:px-14 px-2 mt-14">
-      <div className="bg-white md:p-10 p-5 rounded-lg shadow">
+      <div className="bg-white md:p-10 py-5 px-3 rounded-lg shadow">
         <h1 className="md:text-4xl text-3xl text-black font-bold text-center">
           Services
         </h1>
@@ -13,11 +13,11 @@ const Services = () => {
           items or products, ensuring their seamless and fast travel around the
           globe.
         </p>
-        <div className=" grid lg:grid-cols-3 md:grid-cols-2 grid-cols-1 gap-5 my-10">
-          <div className="p-6 bg-white  gap-5 rounded-lg shadow-lg dark:bg-gray-800 dark:border-gray-700">
+        <div className=" grid lg:grid-cols-3 sm:grid-cols-2 grid-cols-1 gap-5 my-10">
+          <div className="md:p-6 py-4 px-3 bg-white  gap-5 rounded-lg shadow-lg dark:bg-gray-800 dark:border-gray-700">
             <div>
               <h5 className="mb-2 flex gap-4 justify-between text-lg font-semibold tracking-tight text-gray-900 dark:text-white">
-                Personalized Import and Export Services:
+                Personalized Import and Export Services
                 <span>
                   <svg
                     className="md:w-10 md:h-10 w-6 text-orange-400 dark:text-gray-400 mb-3"
@@ -36,10 +36,10 @@ const Services = () => {
               </p>
             </div>
           </div>
-          <div className="p-6 bg-white flex gap-5 rounded-lg shadow-lg dark:bg-gray-800 dark:border-gray-700">
+          <div className="md:p-6 bg py-4 px-3 white flex gap-5 rounded-lg shadow-lg dark:bg-gray-800 dark:border-gray-700">
             <div>
               <h5 className="mb-2 flex gap-4 justify-between text-lg font-semibold tracking-tight text-gray-900 dark:text-white">
-                Logistics Expertise:
+                Logistics Expertise
                 <span>
                   <svg
                     className="md:w-10 md:h-10 w-6 text-orange-400 dark:text-gray-400 mb-3"
@@ -59,10 +59,10 @@ const Services = () => {
               </p>
             </div>
           </div>
-          <div className="p-6 bg-white  gap-5 rounded-lg shadow-lg dark:bg-gray-800 dark:border-gray-700">
+          <div className="md:p-6 py-4 px-3 bg-white  gap-5 rounded-lg shadow-lg dark:bg-gray-800 dark:border-gray-700">
             <div>
               <h5 className="mb-2 flex gap-4 justify-between text-lg font-semibold tracking-tight text-gray-900 dark:text-white">
-                Comprehensive Documentation and Compliance :
+                Comprehensive Documentation and Compliance
                 <span>
                   <svg
                     className="md:w-10 md:h-10 w-6 text-orange-400 dark:text-gray-400 mb-3"
