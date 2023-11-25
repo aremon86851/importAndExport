@@ -2,6 +2,7 @@ import Activities from "@/components/Activities";
 import FundamentalPrinciples from "@/components/FundamentalPrinciples";
 import Hero from "@/components/Hero";
 import NavigateArea from "@/components/NavigateArea";
+import Services from "@/components/Services";
 import USP from "@/components/USP";
 import Head from "next/head";
 export default function Home() {
@@ -20,6 +21,7 @@ export default function Home() {
       <FundamentalPrinciples />
       <USP />
       <Activities />
+      <Services />
     </>
   );
 }

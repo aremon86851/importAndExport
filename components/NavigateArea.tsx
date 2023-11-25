@@ -2,7 +2,7 @@ import React from "react";
 
 const NavigateArea = () => {
   return (
-    <div className="max-w-xxl mx-auto lg:px-32 md:px-14 px-5 lg:-mt-24 -mt-16">
+    <div className="max-w-xxl mx-auto lg:px-32 md:px-14 px-2 lg:-mt-24 -mt-16">
       <div className="bg-white lg:p-10 sm:px-5 sm:py-5 p-4 shadow">
         <div className="grid xl:grid-cols-4 sm:grid-cols-2 grid-cols-1 gap-6">
           {[0, 1, 2, 3].map((item) => (

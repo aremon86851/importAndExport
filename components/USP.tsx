@@ -2,7 +2,7 @@ import React from "react";
 
 const USP = () => {
   return (
-    <div className="max-w-xxl mx-auto lg:px-32 md:px-14 px-5 mt-14">
+    <div className="max-w-xxl mx-auto lg:px-32 md:px-14 px-2 mt-14">
       <div className="md:grid grid-cols-2 flex flex-col-reverse gap-5 xl:h-97 h-full  items-start bg-white md:p-10 p-5 rounded-lg shadow">
         <div className="h-full flex items-center">
           <div className="flex flex-col justify-between lg:p-4 pt-0 leading-normal">

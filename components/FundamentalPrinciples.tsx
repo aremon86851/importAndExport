@@ -2,7 +2,7 @@ import React from "react";
 
 const FundamentalPrinciples = () => {
   return (
-    <div className="max-w-xxl mx-auto lg:px-32 md:px-14 px-5 mt-14">
+    <div className="max-w-xxl mx-auto lg:px-32 md:px-14 px-2 mt-14">
       <div className="grid md:grid-cols-2 grid-cols-1 gap-5 lg:items-center items-start bg-white md:p-10 p-5 rounded-lg shadow">
         <div>
           <img
