@@ -16,6 +16,13 @@ module.exports = {
       maxWidth: {
         xxl: "1440px",
       },
+      height: {
+        97: "412px",
+      },
+      margin: {
+        62: "46%",
+        63: "248px",
+      },
     },
   },
   plugins: [require("flowbite/plugin")],

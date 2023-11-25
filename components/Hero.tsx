@@ -15,10 +15,13 @@ const Hero = () => {
                   Welcome to Jamil Ahmed's "Deal to Lead"
                 </h1>
                 <p className="mb-9">
-                  Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                  Quasi esse explicabo deserunt enim harum incidunt id, nostrum
-                  nulla consequatur. Perspiciatis eaque nihil laudantium quo
-                  atque ut exercitationem architecto, corporis doloremque.
+                  In the fast-paced world of global trade, Jamil Ahmed stands
+                  out as a vital participant in import and export operations,
+                  specialized in the global exchange of a wide range of goods.
+                  We have created a strong and efficient system based on precise
+                  sourcing techniques, extensive market analysis, and stringent
+                  quality control, assuring the smooth flow of critical
+                  commodities across international borders.
                 </p>
                 {/* Buttons */}
                 <div className="space-x-4">
