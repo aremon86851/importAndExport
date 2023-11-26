@@ -16,7 +16,7 @@ const NavigateArea = () => {
                   }}
                 >
                   <div className="flex items-end h-full">
-                    <span className="bg-purple-700 rounded-bl-lg rounded-br-lg hover:bg-purple-800 px-4 h-10 w-full flex items-center justify-between">
+                    <span className="bg-purple-700 rounded-bl-lg text-white rounded-br-lg hover:bg-purple-800 px-4 h-10 w-full flex items-center justify-between">
                       Heellosss
                       <svg
                         className="w-4 h-4 text-white hover:text-gray-300 cursor-pointer dark:text-white"

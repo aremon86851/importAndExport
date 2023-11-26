@@ -12,7 +12,7 @@ const JoinUs = () => {
                   Join us!
                 </span>
               </h5>
-              <p className="text-center xl:w-3/4 w-full mx-auto">
+              <p className="text-center text-white xl:w-3/4 w-full mx-auto">
                 Join us at Jamil Ahmed as we embark on a transformative journey
                 in the world of global trade. Experience the dependability,
                 integrity, and excellence that define our commitment to making
