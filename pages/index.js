@@ -1,6 +1,7 @@
 import Activities from "@/components/Activities";
 import Advantage from "@/components/Advantage";
 import Characteristics from "@/components/Characteristics";
+import Footer from "@/components/Footer";
 import FundamentalPrinciples from "@/components/FundamentalPrinciples";
 import Hero from "@/components/Hero";
 import JoinUs from "@/components/JoinUs";
@@ -34,6 +35,7 @@ export default function Home() {
       <Advantage />
       <Vision />
       <JoinUs />
+      <Footer />
     </>
   );
 }
