@@ -14,10 +14,12 @@ const Hero = () => {
                 <h1 className="text-4xl sm:text-5xl lg:text-6xl leading-tight font-bold mb-2">
                   Welcome to Jamil Ahmed's "Deal to Lead"
                 </h1>
-                <p className="mb-9">
+                <p className="mb-2">
                   In the fast-paced world of global trade, Jamil Ahmed stands
                   out as a vital participant in import and export operations,
                   specialized in the global exchange of a wide range of goods.
+                </p>
+                <p className="mb-9">
                   We have created a strong and efficient system based on precise
                   sourcing techniques, extensive market analysis, and stringent
                   quality control, assuring the smooth flow of critical
